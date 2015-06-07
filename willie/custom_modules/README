@@ -1,0 +1,1 @@
+You can either leave your custom modules here and configure willie to look here for modules, or you can move the files to ~/.willie/modules which is a default location for custom modules.
